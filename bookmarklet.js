@@ -1,0 +1,1 @@
+javascript:(function(){window.open("https://12ft.io/proxy?q="+location.href);})();
